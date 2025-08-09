@@ -16,4 +16,3 @@ plugins {
 rootProject.name = "no-shade"
 include("common")
 include("fabric")
-include("forge")
